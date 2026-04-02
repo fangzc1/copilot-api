@@ -301,7 +301,7 @@ async function openUsageViewer(): Promise<void> {
     return
   }
 
-  const usageUrl = `https://ericc-ch.github.io/copilot-api?endpoint=${encodeURIComponent(
+  const usageUrl = `https://caozhiyuan.github.io/copilot-api?endpoint=${encodeURIComponent(
     `${endpoint}/usage`,
   )}`
 
